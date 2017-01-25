@@ -1,0 +1,11 @@
+Controles:
+
+Teclado: 
+
+Mover nave: Flecha arriba, abajo, izquierda, derecha.
+Disparar: spacebar
+
+Gamepad Xbox: 
+
+Stick: Mover arriba, abajo, der, izq 
+Dsiparo: X

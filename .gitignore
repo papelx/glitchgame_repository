@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Windows image file caches
+Thumbs.db
+
+/space_ shooter/Library
+/space_ shooter/Temp
+/space_ shooter/.vs
+/space_ shooter/*.sln
+/space_ shooter/*.csproj
+
